@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1733595474 source:d:\codeblockspro\online_quiz_app\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+
+1733771184 source:c:\users\abdul\desktop\online_quiz_app\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+

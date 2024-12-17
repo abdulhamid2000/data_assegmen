@@ -1,0 +1,158 @@
+[
+    {
+        "category": "Data communication",
+        "question": "which one is wrong for packet switching?",
+        "options": ["each message is sent in packet","A system can communicate more than one system atthe same time with packet switching","It is ideal for phone communication","ATM based on packet switching technology None"],
+        "correct_answer": "It is ideal for phone communication"
+    },
+    {
+        "category": "Data communication",
+        "question": "Which one is not true for TCP/IP protocol architecture? ",
+        "options": ["Port address is used for identifying each computer inthe network uniquely", "TCP is the most reliable transport layer protocol", "Isolating above layers from network technology isdone with Internet layer", "Internet is based on TCP/IP protocols"],
+        "correct_answer": "Port address is used for identifying each computer inthe network uniquely"
+    },
+    {
+        "category": "Data communication",
+        "question": "Which definition is not true for OSI Architecture? ",
+        "options": ["Service ports are used in the communication between layers in the same system", "For the communication between networks Internet layer is used", "Same layers in different systems communicate with protocols", "Communication between upper and lower layers are done with services"],
+        "correct_answer": "For the communication between networks Internet layer is used"
+    },
+    {
+        "category": "Data communication",
+        "question": "How does delay occur in signal transmission? ",
+        "options": ["Not reaching to receiver due to weakness of signa", "Signal reaches to receiver late due to interference of another signal", "Because of the thermal noise, signal transmission gets slow down", "requencies in edges arrive to receiver later in cable transmission"],
+        "correct_answer": "requencies in edges arrive to receiver later in cable transmission"
+    },
+    {
+        "category": "Data communication",
+        "question": "Which one is done by Repeater? ",
+        "options": ["Providing transmission of analog signal", "Correcting the distortion on the digital signal", "Converting analog signal into digital signal", "Reducing thermal noise"],
+        "correct_answer": "Correcting the distortion on the digital signal"
+    },
+    {
+        "category": "Data communication",
+        "question": "Which one is true for Analog Signal? ",
+        "options": ["It transmits only digital data", "Each signal has just single frequency", "Providing security is more difficult than digital signal", "It can be digitized without any data lost"],
+        "correct_answer": "Providing security is more difficult than digital signal"
+    },
+    {
+        "category": "Data communication",
+        "question": "What is the first step in transmitting a speech through a computer?",
+        "options": ["Decoding", "Modulation", "Demodulation", "Codding"],
+        "correct_answer": "Codding"
+    },
+    {
+        "category": "Data communication",
+        "question": "Which is not true for digital signal transmission? ",
+        "options": ["Date rate unit is defined as bps", "It is used in LAN", "It is done with discrete signal parts", "It must be amplified after certain distance"],
+        "correct_answer": "It must be amplified after certain distance"
+    },
+    {
+        "category": "Data communication",
+        "question": "Which property of signal can be seen in frequency domain? ",
+        "options": ["Spectrum", "Phase", "Period", "Wave length"],
+        "correct_answer": "Spectrum"
+    },
+    {
+        "category": "Data communication",
+        "question": "In which communication, the signal having shortestwavelength is used? ",
+        "options": ["Phone communication", "Communication with optical fiber", "Communication with coaxial cable", "Satellite communication"],
+        "correct_answer": "Communication with optical fiber"
+    },
+    {
+        "category": "Microprocessors",
+        "question": "How can you represnt a trillion in computer science",
+        "options": ["K", "M", "T", "P"],
+        "correct_answer": "T"
+    },
+    {
+        "category": "Microprocessors",
+        "question": "Where do the vidio control programs and vidio display data hold in a computer system?",
+        "options": ["TPA", "Hard disk", "System area", "XMS"],
+        "correct_answer": "H2O"
+    },
+    {
+        "category": "Microprocessors",
+        "question": "Wich one is a bus of computer system?",
+        "options": ["MRDC", "IORC", "IOWC", "NONE"],
+        "correct_answer": "IORC"
+    },
+    {
+        "category": "Microprocessors",
+        "question": "Who is not involved in machanical age?",
+        "options": ["charies babbage", "josen", "blalse pascal", "Michael faraday"],
+        "correct_answer": "Michael faraday"
+    },
+    {
+        "category": "Microprocessors",
+        "question": "How much memory can the address bus of the 8086 addresses?",
+        "options": ["640KB", "30KB", "1MB", "64KB"],
+        "correct_answer": "1MB"
+    },
+    {
+        "category": "Microprocessors",
+        "question": "What is the address bus size of the intel 8086?",
+        "options": ["20bit", "18bit", "8bit", "4bit"],
+        "correct_answer": "20bit"
+    },
+    {
+        "category": "Microprocessors",
+        "question": "What is the size of TPA?",
+        "options": ["2MB", "384KB", "1MB", "64KB"],
+        "correct_answer": "384KB"
+    },
+    {
+        "category": "Microprocessors",
+        "question": "what is the size of 8086 xms?",
+        "options": ["NONE", "45MB", "31MB", "15MB"],
+        "correct_answer": "NONE"
+    },
+    {
+        "category": "Teknikal",
+        "question": "If the automatic …..of the system fails, it can be activated manually.?",
+        "options": ["installation", "deployment", "orientation", "protection"],
+        "correct_answer": "protection"
+    },
+    {
+        "category": "Teknikal",
+        "question": "The attitude-control engine …. the rocket.?",
+        "options": ["shields", "thrusts", "jettisons", "stabilises"],
+        "correct_answer": "George Washington"
+    },
+    {
+        "category": "Teknikal",
+        "question": "The ejection seat system is activated by pulling the ejection?",
+        "options": [" cable", "handle", "cord", "wingspan"],
+        "correct_answer": "handle"
+    },
+    {
+        "category": "Teknikal",
+        "question": "A hollow cone shape a material is called aainer in two halves used to?",
+        "options": ["mould", "nozzle", "heater", "hose"],
+        "correct_answer": "mould"
+    },
+    {
+        "category": "Teknikal",
+        "question": "A small hole through which soft plastic is pushed is called a?",
+        "options": ["mould", "sheet", "cave", "cylinder"],
+        "correct_answer": "mould"
+    },
+    {
+        "category": "Teknikal",
+        "question": "Small pieces of dry plastic used in the process of injection moulding are called?",
+        "options": ["membranes", "polymers", "pellets", "fuses"],
+        "correct_answer": "pellets"
+    },
+    {
+        "category": "Teknikal",
+        "question": "The main part or body of a plane is called?",
+        "options": ["engine", "fuselage", "propeller", "wing SAsi"],
+        "correct_answer": "fuselage"
+    },
+    {
+        "category": "Teknikal",
+        "question": "If you survive a crash or sinking, you can start the beacon?",
+        "options": ["tactfully", "actually", "handily", "manually"],
+        "correct_answer": "manually"
+    }
+]
